@@ -6,6 +6,7 @@
     "Lachlan Hunt <lachlan.hunt@lachy.id.au>"
   ],
   "description": "A test bower library",
+  "main": "public/app/e.js",
   "keywords": [
     "Test"
   ],
@@ -16,6 +17,6 @@
     "node_modules",
     "bower_components",
     "README.md",
-	"app"
+    "app"
   ]
 }
